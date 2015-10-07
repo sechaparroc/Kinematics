@@ -34,3 +34,10 @@ __Keys:__
 - 'b' : change between add bones behavior and editing behavior.
 
 - 'z' : execute a skinning algorithm, so it will relate the last selected skeleton with the model in the screen. Needs to be in editing behavior.
+
+__Example Videos:__
+
+https://www.youtube.com/watch?v=QQCOi27bKjM
+https://www.youtube.com/watch?v=AwsnGQggrkU
+https://www.youtube.com/watch?v=CDlRB59dIFI
+https://www.youtube.com/watch?v=-zl4fcuDEIo
